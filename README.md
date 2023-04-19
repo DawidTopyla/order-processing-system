@@ -30,3 +30,8 @@ Główy plik w projekcie. W nim tworzone jest okno widoczne dla użytkownika.
 Wykorzystuje [DoublyLinkedList](https://github.com/DawidTopyla/order-processing-system/blob/main/struktury_danych/my_doubly_linked_list.py) do przechowywania zamówień. Jej metody wykorzystano przy przechodzeniu pomiędzy zamówieniami.
 [PriorityQueue](https://github.com/DawidTopyla/order-processing-system/blob/main/struktury_danych/my_priority_queue.py) użyto w celu sortowania zamówień po oczekiwanym czasie dosatwy.
 
+## Przykłady graficzne projektu
+
+| Widok początkowy | Widok po wczytaniu danych |
+|:---:|:---:|
+| ![Widok 1](https://github.com/DawidTopyla/order-processing-system/blob/main/assets/system1.png)  | ![Widok 1](https://github.com/DawidTopyla/order-processing-system/blob/main/assets/system2.png) |
