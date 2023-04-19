@@ -1,0 +1,196 @@
+{
+  "orders": [
+    {
+      "name": "Piotr",
+      "surname": "Nowak",
+      "phoneNumber": "455686997",
+      "email": "nowak@gmail.com",
+      "address": "Lublin, Pogodna 4a/22",
+      "vip": false,
+      "order": {
+        "pizzaName": "Salami",
+        "size": "medium",
+        "receivedOrderTime": "08-05-2023, 09:15:00",
+        "expectedDeliveryTime": "08-05-2023, 10:01:00",
+        "distance": 7.5,
+        "price": "33.75"
+      }
+    },
+    {
+      "name": "Paweł",
+      "surname": "Lewandowski",
+      "phoneNumber": "604580121",
+      "email": "lewy@gmail.com",
+      "address": "Lublin, Słoneczna 12/16",
+      "vip": false,
+      "order": {
+        "pizzaName": "Funghi",
+        "size": "big",
+        "receivedOrderTime": "08-05-2023, 09:30:00",
+        "expectedDeliveryTime": "08-05-2023, 10:06:00",
+        "distance": 3.0,
+        "price": "40.60"
+      }
+    },
+    {
+      "name": "Jan",
+      "surname": "Kowalski",
+      "phoneNumber": "555666777",
+      "email": "kowalski@gmail.com",
+      "address": "Lublin, Juranda 3/6",
+      "vip": true,
+      "order": {
+        "pizzaName": "Capricciosa",
+        "size": "big",
+        "receivedOrderTime": "07-05-2023, 11:55:00",
+        "expectedDeliveryTime": "08-05-2023, 13:00:00",
+        "distance": 3.5,
+        "price": "36.59"
+      }
+    },
+    {
+      "name": "Natalia",
+      "surname": "Kowalska",
+      "phoneNumber": "508654616",
+      "email": "kowalska@gmail.com",
+      "address": "Lublin, Wrzosowa 4b/16",
+      "vip": true,
+      "order": {
+        "pizzaName": "Hawajska",
+        "size": "medium",
+        "receivedOrderTime": "08-05-2023, 12:54:00",
+        "expectedDeliveryTime": "08-05-2023, 13:40:00",
+        "distance": 4.7,
+        "price": "30.19"
+      }
+    },
+    {
+      "name": "Dominik",
+      "surname": "Marzęda",
+      "phoneNumber": "563639341",
+      "email": "marzeda@gmail.com",
+      "address": "Lublin, Spadochroniarz 13",
+      "vip": false,
+      "order": {
+        "pizzaName": "Capricciosa",
+        "size": "big",
+        "receivedOrderTime": "07-05-2023, 17:40:00",
+        "expectedDeliveryTime": "08-05-2023, 15:00:00",
+        "distance": 6.2,
+        "price": "42.00"
+      }
+    },
+    {
+      "name": "Patrycja",
+      "surname": "Polska",
+      "phoneNumber": "620707515",
+      "email": "polskap@gmail.com",
+      "address": "Lublin, Głęboka 4,18",
+      "vip": true,
+      "order": {
+        "pizzaName": "Funghi",
+        "size": "medium",
+        "receivedOrderTime": "08-05-2023, 15:30:00",
+        "expectedDeliveryTime": "08-05-2023, 16:04:00",
+        "distance": 1.5,
+        "price": "27.45"
+      }
+    },
+    {
+      "name": "Bartek",
+      "surname": "Mazur",
+      "phoneNumber": "609500418",
+      "email": "mazur@gmail.com",
+      "address": "Lublin, Józefa Hallera 8/2",
+      "vip": true,
+      "order": {
+        "pizzaName": "Capricciosa",
+        "size": "medium",
+        "receivedOrderTime": "08-05-2023, 16:14:00",
+        "expectedDeliveryTime": "08-05-2023, 16:58:00",
+        "distance": 6.5,
+        "price": "29.48"
+      }
+    },
+    {
+      "name": "Mateusz",
+      "surname": "Wiśniewski",
+      "phoneNumber": "123954722",
+      "email": "wisniewski@gmail.com",
+      "address": "Świdnik, Lipowa 4/55",
+      "vip": false,
+      "order": {
+        "pizzaName": "Funghi",
+        "size": "big",
+        "receivedOrderTime": "08-05-2023, 17:23:00",
+        "expectedDeliveryTime": "08-05-2023, 18:09:00",
+        "distance": 8.0,
+        "price": "43.10"
+      }
+    },
+    {
+      "name": "Hubert",
+      "surname": "Kowal",
+      "phoneNumber": "393467281",
+      "email": "kowal@gmail.com",
+      "address": "Świdnik, Krótka 6",
+      "vip": true,
+      "order": {
+        "pizzaName": "Hawajska",
+        "size": "big",
+        "receivedOrderTime": "08-05-2023, 18:00:00",
+        "expectedDeliveryTime": "08-05-2023, 18:42:00",
+        "distance": 5.5,
+        "price": "40.63"
+      }
+    },
+    {
+      "name": "Filip",
+      "surname": "Drewnika",
+      "phoneNumber": "702699418",
+      "email": "drewniak@gmail.com",
+      "address": "Lublin, Wrzosowa 7",
+      "vip": true,
+      "order": {
+        "pizzaName": "Margherita",
+        "size": "medium",
+        "receivedOrderTime": "07-05-2023, 17:50:00",
+        "expectedDeliveryTime": "08-05-2023, 19:00:00",
+        "distance": 1.8,
+        "price": "26.82"
+      }
+    },
+    {
+      "name": "Iga",
+      "surname": "Zielińska",
+      "phoneNumber": "455686997",
+      "email": "nowak@gmail.com",
+      "address": "Lublin, Krótka 15/32",
+      "vip": false,
+      "order": {
+        "pizzaName": "Margherita",
+        "size": "big",
+        "receivedOrderTime": "07-05-2023, 19:00:00",
+        "expectedDeliveryTime": "08-05-2023, 19:45:00",
+        "distance": 2.0,
+        "price": "39.20"
+      }
+    },
+    {
+      "name": "Julia",
+      "surname": "Nowak",
+      "phoneNumber": "502451397",
+      "email": "j.nowak@gmail.com",
+      "address": "Świdnik, Pogodna 4",
+      "vip": false,
+      "order": {
+        "pizzaName": "Salami",
+        "size": "medium",
+        "receivedOrderTime": "08-05-2023, 18:40:00",
+        "expectedDeliveryTime": "08-05-2023, 19:46:00",
+        "distance": 7.2,
+        "price": "33.60"
+      }
+    }
+  ]
+}
